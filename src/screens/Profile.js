@@ -1,11 +1,11 @@
 import React from 'react';
 import { SafeAreaView, Text } from 'react-native';
 
-import { styles } from '../styles/styles';
+import { styles } from '../styles/Profile.styled';
 
 const Home = () => (
   <SafeAreaView style={styles.container}>
-    <Text>This is the Profile Page</Text>
+    <Text style={styles.text}>This is the Profile Page</Text>
   </SafeAreaView>
 );
 
