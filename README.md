@@ -9,4 +9,4 @@ https://reactnative.dev/docs/environment-setup
 
 ### Demo
 
-![alt text](./README-image.png)
+![alt text](./README-image.png) <!-- .element width="50%" -->
