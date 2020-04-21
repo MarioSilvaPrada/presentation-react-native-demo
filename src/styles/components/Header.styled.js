@@ -7,7 +7,7 @@ export const styles = StyleSheet.create({
     display: 'flex',
     justifyContent: 'center',
     borderBottomWidth: 3,
-    borderColor: '#d7385e'
+    borderColor: '#d7385e',
   },
   text: {
     fontSize: 20,
