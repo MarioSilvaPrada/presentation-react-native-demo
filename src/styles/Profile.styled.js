@@ -13,4 +13,10 @@ export const styles = StyleSheet.create({
     color: '#4d4c7d',
     marginBottom: 30,
   },
+  button: {
+    color: 'white',
+    backgroundColor: 'orange',
+    padding: 9,
+    borderRadius: 8,
+  },
 });
