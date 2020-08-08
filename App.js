@@ -6,17 +6,18 @@
  * @flow strict-local
  */
 
-import React from 'react';
+// import React from 'react';
 
-import AppNavigator from './src/navigation/AppNavigator';
+// import AppNavigator from './src/navigation/AppNavigator';
 
 
-const App: () => React$Node = () => {
-  return (
-    <>
-      <AppNavigator />
-    </>
-  );
-};
+// const App: () => React$Node = () => {
+//   return (
+//     <>
+//       <AppNavigator />
+//     </>
+//   );
+// };
+// export default App;
 
-export default App;
+export default from './storybook';
